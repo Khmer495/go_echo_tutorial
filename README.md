@@ -1,1 +1,1 @@
-# go_practice
+# go_echo_tutorial
